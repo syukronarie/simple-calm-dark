@@ -1,0 +1,21 @@
+{
+	"name": "simple-calm-dark",
+	"displayName": "simple-calm-dark",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "simple-calm-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/simple-calm-dark-color-theme.json"
+			}
+		]
+	}
+}
