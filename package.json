@@ -17,5 +17,18 @@
 				"path": "./themes/simple-calm-dark-color-theme.json"
 			}
 		]
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/syukronarie/simple-calm-dark"
+	},
+	"author": {
+		"name": "Arie Syukron"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"simple",
+		"calm"
+	]
 }
