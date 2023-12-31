@@ -1,7 +1,7 @@
 {
 	"name": "simple-calm-dark",
 	"displayName": "simple-calm-dark",
-	"description": "",
+	"description": "a calming dark theme for Visual Studio Code. Enjoy a distraction-free environment!",
 	"version": "0.0.1",
 	"publisher": "syukronarie",
 	"engines": {
