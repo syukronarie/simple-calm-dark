@@ -10,7 +10,8 @@ A minimalistic and soothing dark theme for Visual Studio Code with a predominant
 4. Choose "Simple Calm Dark" from the dropdown in the status bar.
 
 ## Screenshots
-<img width="1912" alt="Screenshot 2023-12-31 at 4 07 04 PM" src="https://github.com/syukronarie/simple-calm-dark/assets/36725290/4415e7f8-f5b9-4906-89c4-ca4a578f2874">
+<img width="2672" alt="Screenshot 2023-12-31 at 4 11 55 PM" src="https://github.com/syukronarie/simple-calm-dark/assets/36725290/b1d033c4-541e-4eba-9f8b-01ec2116aa69">
+
 
 
 ## Features
