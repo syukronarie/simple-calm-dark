@@ -4,12 +4,14 @@ A minimalistic and soothing dark theme for Visual Studio Code with a predominant
 
 ## Installation
 
-1. Open Extensions sidebar panel in Visual Studio Code.
+1. Open the Extensions sidebar panel in Visual Studio Code.
 2. Search for "Simple Calm Dark".
 3. Click Install to apply the theme.
 4. Choose "Simple Calm Dark" from the dropdown in the status bar.
 
 ## Screenshots
+<img width="1912" alt="Screenshot 2023-12-31 at 4 07 04 PM" src="https://github.com/syukronarie/simple-calm-dark/assets/36725290/4415e7f8-f5b9-4906-89c4-ca4a578f2874">
+
 
 ## Features
 
