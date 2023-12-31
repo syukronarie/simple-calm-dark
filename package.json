@@ -3,6 +3,7 @@
 	"displayName": "simple-calm-dark",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "syukronarie",
 	"engines": {
 		"vscode": "*"
 	},
