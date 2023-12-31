@@ -23,3 +23,6 @@ A minimalistic and soothing dark theme for Visual Studio Code with a predominant
 ## Feedback
 
 If you have any issues or suggestions, please [open an issue.](https://github.com/syukronarie/simple-calm-dark/issues)
+
+### Inspiration
+- [Zero - Valkyrihane](https://marketplace.visualstudio.com/items?itemName=Valkyrihane.zero)
